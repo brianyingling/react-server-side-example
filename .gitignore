@@ -1,1 +1,4 @@
 node_modules/
+server/public/
+server/build/
+npm-debug.log
